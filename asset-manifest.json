@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/parth-portfolio-windows11/static/css/main.537b8832.css",
+    "main.css": "/parth-portfolio-windows11/static/css/main.79e2a95d.css",
     "main.js": "/parth-portfolio-windows11/static/js/main.2856c48d.js",
     "index.html": "/parth-portfolio-windows11/index.html",
-    "main.537b8832.css.map": "/parth-portfolio-windows11/static/css/main.537b8832.css.map",
+    "main.79e2a95d.css.map": "/parth-portfolio-windows11/static/css/main.79e2a95d.css.map",
     "main.2856c48d.js.map": "/parth-portfolio-windows11/static/js/main.2856c48d.js.map"
   },
   "entrypoints": [
-    "static/css/main.537b8832.css",
+    "static/css/main.79e2a95d.css",
     "static/js/main.2856c48d.js"
   ]
 }
